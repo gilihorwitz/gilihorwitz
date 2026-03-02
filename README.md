@@ -6,14 +6,12 @@ I'm a Computer Science & Data Science student at the University of North Carolin
 - **Phone:** (305) 363-8240
 - **Email:** gilihorwitz@gmail.com
 - **LinkedIn:** [linkedin.com/in/gili-horwitz](https://linkedin.com/in/gili-horwitz)
-- **GitHub:** [github.com/gilihorwitz](https://github.com/gilihorwitz)
 
 ---
 
 ## 🎓 Education
 **University of North Carolina at Chapel Hill** | May 2027
 - B.S. Computer Science & Data Science | Economics Minor
-- GPA: 3.41
 - **Coursework:** Human Computer Interaction, Machine Learning, Artificial Intelligence, Data Science in the Business World, Ethics of AI, Data Structures, Computer Organization, Object Oriented Programming
 
 ---
